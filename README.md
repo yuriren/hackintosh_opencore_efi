@@ -8,3 +8,14 @@
 - mem: G.SKILL DDR4 16GB*6
 - Graphics card: Sapphire 6750 GRE 12GB
 
+## BIOS Setting
+**Disable**
+- Fast Boot
+- Secure Boot
+- MSR Lock
+- CSM
+
+**Enable**
+- Above 4G decoding
+- AHCI DISK
+- OS type: Others
